@@ -1,0 +1,7 @@
+site_name: Fiori Tracker
+site_url: https://fioritracker.github.io
+theme:
+  name: material
+nav:
+  - App Import: app-import.md
+  
